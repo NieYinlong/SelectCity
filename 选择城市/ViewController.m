@@ -18,7 +18,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 
-    
+    NSLog(@"选择城市");
 }
 
 - (IBAction)selectCityBtn:(id)sender {
